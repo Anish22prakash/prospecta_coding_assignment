@@ -1,0 +1,6 @@
+What type of errors you would you check for?
+some common error we may get while parsing the csv file
+1)Text field with an unescaped delimiter
+2)Quoted string with an unescaped double quote
+3)Non-standard escape characters
+4)CRLF / Dos line endings
