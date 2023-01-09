@@ -1,0 +1,10 @@
+Question: what are the key things you would consider when creating/consuming an
+ API to ensure that it is secure and reliable?
+
+ans:
+the following key points we have to check and consider while creating/consuming the api
+1) we have the implement the authentication.
+2)check the authorization.
+3)Encrypt all requests and responses.
+4)Validate all requests.
+5)Conduct security tests.
